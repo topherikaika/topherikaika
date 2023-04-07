@@ -4,9 +4,9 @@
 
 ### About me  
 
-💻 <b>Currently learning:</b> JS and React <br>
+💻 <b>Currently learning:</b> JS and MERN <br>
 👨🏻‍💻 <b>Studied at:</b> [Le Wagon Tokyo](https://www.lewagon.com/tokyo) <br>
-🚀 <b>Working on:</b> [freeCodeCamp](https://www.freecodecamp.org/learn) and [JavaScript30](https://javascript30.com/)<br>
+🚀 <b>Working on:</b> [freeCodeCamp](https://www.freecodecamp.org/learn)<br>
 
 ### Skills
 
