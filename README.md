@@ -4,7 +4,7 @@
 
 ### About me  
 
-💻 <b>Currently learning:</b> JS and MERN <br>
+💻 <b>Currently learning:</b> [React for the rest of us](https://www.udemy.com/course/react-for-the-rest-of-us/?utm_source=adwords&utm_medium=udemyads&utm_campaign=WebDevelopment_v.PROF_la.EN_cc.JP_ti.8322&utm_content=deal4584&utm_term=_._ag_118675754868_._ad_621717693481_._kw__._de_c_._dm__._pl__._ti_aud-1738475842996%3Adsa-774930029169_._li_1028850_._pd__._&matchtype=&gclid=Cj0KCQjw_r6hBhDdARIsAMIDhV_O-ugB9hK6D7vYKh151sqLZ57Dgu7f69fHsHNH0nafumCL0jaiqL0aAugyEALw_wcB) with [Brad Schiff](https://www.youtube.com/@LearnWebCode) <br>
 👨🏻‍💻 <b>Studied at:</b> [Le Wagon Tokyo](https://www.lewagon.com/tokyo) <br>
 🚀 <b>Working on:</b> [freeCodeCamp](https://www.freecodecamp.org/learn)<br>
 
